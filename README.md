@@ -1,18 +1,17 @@
-nltk-server
-===========
+# nltk-server
 
-Web server exposing REST Interfaces for all Natural Language Processing functions.
+REST API for NLTK, available as a Docker container at 
 
-###*Features*:
-+ Stemming
-+ Lemmatizing
-+ Tokenizing
-+ POS Tagging
-+ Named Entity Recognition
+## Features
 
-TODO:
-+ Text summarization
-+ Sentiment Analysis
+- Stemming
+- Lemmatizing
+- Tokenizing
+- POS Tagging
 
-Read the complete Documentation here. 
-http://nltk-server.readthedocs.org/en/latest/api-doc.html
+## Copyright
+
+This is a fork of https://github.com/preems/nltk-server, with changes:
+
+- (-) NER
+- (+) Docker

@@ -19,4 +19,3 @@ Documentation
 
    install
    api-doc
-   stanfordner
