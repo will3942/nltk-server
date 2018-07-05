@@ -1,6 +1,6 @@
 # nltk-server
 
-REST API for NLTK, available as a Docker container at 
+REST API for NLTK, available as a Docker container at https://hub.docker.com/r/will3942/nltk-rest-api
 
 ## Features
 
